@@ -1,0 +1,28 @@
+name: vesperto
+favicon: null
+layout_spectrum: 0.4499488305300474
+typography_spectrum: 0.9310711266007274
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3992849288042635
+  lightness: 0.2433504406362772
+  saturation: 0.79413334839046
+  rhythmicContrast: 0.1764304901007563
+purpose: []
